@@ -1,6 +1,6 @@
 # Assignment-3-First-bit-solution-<br>
 
-        Assignment 3<br>
+        Assignment 3
 
 1. Accept two numbers from user and an operator (+,-,/,*,%) based on that perform the
 desired operations.<br>
